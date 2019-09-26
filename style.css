@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/satellite.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/satellite.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,27 +37,27 @@ p {
 }
 
 .lunarxp-launch-site {
-    background-image: url("images/launch-site.jpg");
+    background-image: url("https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/launch-site.jpg");
 }
 
 .box-hover.lunarxp-launch-site {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/launch-site.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/launch-site.jpg');
 }
 
 .box-hover.lunarxp-control-center {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/control-center.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/control-center.jpg');
 }
 
 .box-hover.lunarxp-rocket-center {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/rocket.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/rocket.jpg');
 }
 
 .lunarxp-control-center {
-    background-image: url("images/control-center.jpg");
+    background-image: url("https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/control-center.jpg");
 }
 
 .lunarxp-rocket-center {
-    background-image: url("images/rocket.jpg");
+    background-image: url("https://raw.githubusercontent.com/solodev/service-boxes-with-text-hovers/master/images/rocket.jpg");
 }
 
 @media (min-width: 576px) and (max-width: 768px) {
